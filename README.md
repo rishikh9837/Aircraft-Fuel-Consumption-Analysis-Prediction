@@ -1,4 +1,3 @@
-# Aircraft-Fuel-Consumption-Analysis-Prediction
 # Aircraft Fuel Consumption Analytics & Predictive Modeling
 
 ## Project Overview
